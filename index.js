@@ -21,7 +21,7 @@ rpc.on("ready", () => {
 
     console.log("RPC Aktif!");
 })
-
+//Discord Developer Adresinde oluşturduğunuz Applicationun idsi buraya gelecek.
 rpc.login({
     clientId: "793787460420239360"
 })
