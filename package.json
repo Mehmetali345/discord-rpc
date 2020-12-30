@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc-turkce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mehmet Ali Külahçı",
+    "email": "345m.ali2007@gmail.com",
+    "url": "https://mehmetali345.ml"
+  },
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "node .",
+    "baslat": "nodemon index.js"
+  }
+}
