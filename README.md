@@ -29,6 +29,11 @@ yada
 
 işte bu kadar. Discord-Rpc çalışacaktır.
 
+# Ekran Görüntüleri
+![alt text](https://raw.githubusercontent.com/Mehmetali345/discord-rpc/master/screenshots/bf1.PNG)
+![alt text](https://raw.githubusercontent.com/Mehmetali345/discord-rpc/master/screenshots/kf1.PNG)
+
+
 
 
 
